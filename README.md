@@ -1,1 +1,1 @@
-# Company_Layoffs_Analysis
+# Company Layoffs Analysis (SQL)
