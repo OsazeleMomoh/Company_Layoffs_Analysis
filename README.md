@@ -27,12 +27,4 @@ I normally follow this blueprint when cleaning data in SQL:
 # Step 3: Analyse
 In this step, we explore the dataset to gain insights such as the company and year with the most laid off staff, maximum total laid off, maximum percentage laid off, country and industry with most layoffs, month and year most layoffs happened, monthly, progression of total layoffs, the rank of the companies and years with the highest layoffs, the stage of the company that experienced the most layoffs, companies sorted by funds raised. This would help the firm's business intelligence team come up with a dashboard, to aid the companies involved in making effective business decisions. 
 
-# Insights from Analysis
-These are the insights realised from the exploration and analysis of the dataset:
-
-- 
--
--
--
--
 
